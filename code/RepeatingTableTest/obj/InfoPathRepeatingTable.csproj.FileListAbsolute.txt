@@ -1,0 +1,5 @@
+C:\Users\spfarm\Documents\InfoPath Projects\InfoPathRepeatingTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\spfarm\Documents\InfoPath Projects\InfoPathRepeatingTable\bin\Debug\InfoPathRepeatingTable.dll
+C:\Users\spfarm\Documents\InfoPath Projects\InfoPathRepeatingTable\bin\Debug\InfoPathRepeatingTable.pdb
+C:\Users\spfarm\Documents\InfoPath Projects\InfoPathRepeatingTable\obj\Debug\InfoPathRepeatingTable.dll
+C:\Users\spfarm\Documents\InfoPath Projects\InfoPathRepeatingTable\obj\Debug\InfoPathRepeatingTable.pdb
