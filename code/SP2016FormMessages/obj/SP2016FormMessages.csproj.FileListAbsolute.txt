@@ -1,0 +1,5 @@
+C:\Users\spfarm\Documents\InfoPath Projects\SP2016FormMessages\bin\Debug\SP2016FormMessages.dll
+C:\Users\spfarm\Documents\InfoPath Projects\SP2016FormMessages\bin\Debug\SP2016FormMessages.pdb
+C:\Users\spfarm\Documents\InfoPath Projects\SP2016FormMessages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\spfarm\Documents\InfoPath Projects\SP2016FormMessages\obj\Debug\SP2016FormMessages.dll
+C:\Users\spfarm\Documents\InfoPath Projects\SP2016FormMessages\obj\Debug\SP2016FormMessages.pdb
